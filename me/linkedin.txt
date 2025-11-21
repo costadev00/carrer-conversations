@@ -1,0 +1,245 @@
+   
+Contato
+34988383462  (Home)
+matheuscostamonteiro.mc@gma
+il.com
+www.linkedin.com/in/
+costadeveloper  (LinkedIn)
+github.com/costadev00/  (Portfolio)
+Principais competências
+Python
+C++
+Inteligência artificial
+Languages
+Português  (Native or Bilingual)
+Inglês  (Native or Bilingual)
+Certifications
+Competitive Programming
+2021-2023
+MIT 6.S191 - Deep Learning
+Specialization(Free attendance)
+Honors-Awards
+2nd place teams on “FACOM
+Techweek Best Software of the year
+2019” - Minha Saúde APP
+1st place teams on “FACOM
+Techweek Best Software of the year
+2020
+1st place on “UFU - FACOM
+Techweek Programming Contest
+1st Place Team on “Ambev
+Hackathon ABI Academy Hack 2021
+ICPC medalhist on “IX Maratona
+Mineira de Programação"Matheus Costa Monteiro
+Machine Learning Engineer | ex-Scale AI | ICPC Former Competitor
+Uberlândia, Minas Gerais, Brasil
+Resumo
+Comecei a programar aos 13 anos e estou no mercado desde os
+16. Nesse percurso, desenvolvi uma base sólida em Ciência da
+Computação aplicada à indústria — sempre guiado pela facilidade
+de aprender rapidamente e pela capacidade de me adaptar a
+novos desafios. Meu foco principal é inteligência artificial, criação e
+otimização de algoritmos avançados e sistemas distribuídos.
+&   
+Na Scale AI, colaborei com alguns dos maiores especialistas do
+mundo na geração 2024 do GitHub Copilot. Trabalhei com fine-
+tuning avançado (LoRA, QLoRA), RLHF e análise de modelos como
+o GPT-4, além da construção de pipelines de dados robustos. Essa
+vivência acelerou meu aprendizado sobre o estado-da-arte em LLMs
+e como construi-las, e me treinou a dominar rapidamente novas
+ferramentas e metodologias.
+ó  
+Após a Scale AI, iniciei um novo capítulo — mais estratégico e
+voltado ao Brasil. Hoje, conduzo projetos de IA avançada (ainda
+embrionários), aplicando o know-how adquirido no centro do
+ecossistema global para potencializar a transformação local. Minha
+curva de aprendizado curta permite absorver e aplicar tecnologias
+emergentes em ritmo ágil.
+ê
+Mantenho pesquisa ativa na UFU sobre algoritmos de
+escalonamento para machine learning. Avalio e desenvolvo técnicas
+de computação paralela baseadas em teoria dos grafos, visando
+eficiência em ambientes distribuídos — reduzindo custos e tempo
+de treinamento de LLMs. Minha adaptabilidade ajuda a transpor
+descobertas acadêmicas para soluções industriais rapidamente.
+( & )
+•         () — Top 2 regional, pódio entre 52 equipes.
+  Page 1 of 7
+   
+• Presença constante no quadro de menções honrosas do ICPC por
+dois anos.
+• Vitórias em hackathons corporativos (Ambev, Algar) e      ,         (6
+000+ inscritos; ganhando R$ 40 000 em premiação).
+Essas conquistas reforçam minha habilidade de aprender em
+curto prazo, adaptar estratégias sob pressão e converter ideias em
+soluções de alto impacto.
+Estou sempre aberto a colaborações técnicas, conexões
+estratégicas e iniciativas que expandam a fronteira da IA. Vamos
+conversar!
+Experiência
+Scale AI
+Machine Learning Researcher
+abril de 2024 - abril de 2025  (1 ano 1 mês)
+San Francisco, Califórnia, Estados Unidos
+• -    (SFT & RLHF): e criação de pipelines de treinamento a partir de lacunas
+identificadas nas avaliações; tradução de resultados em objetivos de treino e
+composição de dados. 
+•   &   : criei benchmarks inspirados em ICPC para testar raciocínio
+algorítmico; defini metadados (nível, tópicos, restrições) e gerei casos
+adversariais/edge cases. Estruturei guidelines e gold sets para anotação
+(solução, explicação, erros típicos), com revisão em duas etapas e QA.
+•  (-): avaliação e safety: conduzi A/B de prompts e ablações; coletei
+preferências pairwise para o Reward Model; medi pass@k, groundedness e
+alucinação; sistematizei taxonomias de erro e executei revisões de segurança
+(PII, vieses, toxicidade) com red teaming direcionado, alimentando PPO/DPO
+e decisões de go-live.
+• ó  çõ  , impactando ajustes de benchmarks, prompts e estratégias de fine-
+tuning.
+  Page 2 of 7
+   
+• Impacto: contribuições em datasets, avaliações e recomendações que
+viabilizaram duas atualizações de modelo para um grande assistente de
+código (sob NDA), com ~15% de ganho em métricas internas e QA ≥ 98%.
+Nota: pouco após a minha saída, ocorreu uma     (~$ ).
+Algar Telecom
+Software Engineer Internship
+agosto de 2022 - agosto de 2024  (2 anos 1 mês)
+Uberlândia, Minas Gerais, Brasil
+Como estagiário na Algar Telecom, trabalhei em 4 projetos diferentes. 
+1. Janela de Acesso: Aplicação interna para gerenciamento de acesso de
+colaboradores da empresa. Onde desenvolvi parte do back-end do projeto. Foi
+utilizado SQL e Java nessa aplicação. Essa aplicação tem impacto em mais
+de 5000 colaboradores.
+2. Conecct Master: API de que faz chamadas de viabilidade de rede utilizando
+Google Maps. Aqui trabalhei com C# e apliquei meus conhecimentos de teoria
+dos grafos, para cortar custos das chamadas nos mapas.
+3. Sustentação e desenvolvimento de plataformas da rede móvel: Aqui
+trabalhei com aplicações Java de baixo nível, onde desenvolvi aplicações de
+rede, e sistemas distribuídos.
+4. Rai.o: Nesse projeto, vencedor da Hackathon Algar Telecom de Inteligência
+Artificial, desenvolvi uma aplicação que reduz o custo operacional de
+atendimento ao cliente, cria novas oportunidades de venda, e faz esses
+alertas de forma automática ao consultor de vendas. Foi utilizado Python, e
+React. Projeto altamente disruptivo e eficaz para a empresa.
+O uso de IA na empresa provou-se muito viável, com economia estimada de R
+$ 1.000.000,00 em menos de 1 ano.
+UFU - Universidade Federal de Uberlândia
+3 anos 2 meses
+PET - Coordenador Geral
+março de 2022 - maio de 2024  (2 anos 3 meses)
+Uberlândia, Minas Gerais, Brasil
+  Page 3 of 7
+   
+Membro bolsista do PET Sistemas de Informação. Ministrando minicursos,
+onde iniciei a Iniciação Cientifica em otimização de algoritmos de
+escalonamento.
+Ministrei minicursos voltados para o desempenho em competições de
+maratonas de programação ICPC.
+Ótimo lugar com pessoas competentes e produtivas.
+Lugar onde fiz muito amigos para a vida!
+Pesquisador acadêmico em Inteligência Artificial e Teoria dos Grafos
+junho de 2021 - maio de 2024  (3 anos)
+Uberlândia, Minas Gerais, Brasil
+Foco da pesquisa: escalonamento baseado em grafos para treinamento de
+LLMs em clusters heterogêneos de GPUs — buscando maior vazão, melhor
+balanceamento de carga e menor custo/energia.
+Modelei workflows de treinamento (cálculo distribuído + comunicações NCCL
+sobre NVLink/Ethernet) e simulei regimes realistas de custo de computação e
+comunicação.
+Comparei seis heurísticas de list scheduling (DLS, HEFT/HEFT-LA, PEFT/
+IHEFT/IPEFT), mapeando quais políticas se saem melhor sob diferentes
+níveis de CCR e heterogeneidade.
+Medi makespan, utilização/balanceamento de GPUs, tempo de espera e
+métricas derivadas de energia; converti os resultados em recomendações
+práticas para escolher políticas de escalonamento em pipelines de
+treinamento de LLMs.
+O estudo e aprofundamento dessa pesquisa serviram como base para o
+projeto de artigo científico e TCC.
+Medalhista na IX Maratona Mineira de Programação SBC
+maio de 2022 - maio de 2022  (1 mês)
+Uberlândia, Minas Gerais, Brasil
+A Nona Edição da Maratona Mineira foi realizada no ano de 2022, e sua
+sede foi na cidade de Timóteo. Nesta edição a maratona contou com a
+presença de 51 times de 20 escolas. Entre os medalhistas de ouro tinham
+estudantes da UFMG e UFU; os medalhistas de prata eram estudantes da
+UFV-CAF, INATEL, UFU e IFSULDEMINAS; e os medalhistas de bronze eram
+estudantes da UFMG, UNIFEI e UFV.
+  Page 4 of 7
+   
+Professor em projeto de extensão
+abril de 2021 - maio de 2022  (1 ano 2 meses)
+Uberlândia, Minas Gerais, Brasil
+Professor bolsista de Introdução a Programação de Computadores no projeto
+"Jovens Programadores" da Universidade Federal de Uberlândia. Projeto de
+extensão voltado para escolas da região do triângulo mineiro, ensinando IPC
+para alunos do 9º ano fundamental ao 3º ano do ensino médio.
+PET - SI UFU
+Coordenador geral
+março de 2022 - maio de 2024  (2 anos 3 meses)
+Uberlândia, Minas Gerais, Brasil
+Durante dois anos da minha graduação na UFU, fui membro bolsista do PET
+Sistemas de Informação da Universidade Federal de Uberlândia. Nesse
+programa foi onde tive a oportunidade de liderar todo o grupo, ministrar vários
+cursos de Estruturas de dados, Cálculo e C++, organizar vários eventos
+dentro da universidade, realizar atividades de ensino, extensão e inclusão
+social.
+Foi onde também dei início a minha pesquisa em teoria dos grafos e
+algoritmos de escalonamento.
+beecrowd
+Tradutor e Criador de desafios de programação
+março de 2022 - novembro de 2022  (9 meses)
+Uberlândia, Minas Gerais, Brasil
+Tradutor e Criador de desafios de programação na empresa beecrowd.com.
+Utilizei minha experiência com maratonas de programação e meu nível fluente
+em inglês para incrementar mais problemas para a plataforma.
+Ambev Tech
+AmBev-Tech Embaixador de Projeto Campeão.
+agosto de 2021 - dezembro de 2021  (5 meses)
+Embaixador no evento Academy Hack da Ambev-Tech, trabalhando do
+engajamento de times da comunidade UFU. O projeto desenvolvido foi uma
+solução que utiliza inteligência artificial para automatizar o processo de
+classificação de notas fiscais. 
+Além de ter sido escolhido como embaixador destaque do evento.
+Algar Telecom
+Campeão da Maratona de programação Algar TechWeek 2020
+  Page 5 of 7
+   
+novembro de 2020 - novembro de 2020  (1 mês)
+Uberlândia, Minas Gerais, Brasil
+Campeão da "Maratona Algar Techweek 2020" patrocinada pela Algar
+Telecom. Organizada pela Universidade Federal de Uberlândia.
+Competição individual com aproximadamente 40 competidores.
+Atomic Agro
+Desenvolvedor full stack
+janeiro de 2019 - maio de 2019  (5 meses)
+Uberlândia, Minas Gerais
+Recebi esta oportunidade após o sucesso do Minha Saúde APP (15 mil
++ downloads em 1 ano), sendo contratado aos 17 anos para atuar no
+desenvolvimento mobile e front-end do aplicativo, utilizando React Native e
+ReactJS. Trabalhar em uma startup desde cedo me ensinou a programar sob
+prazos curtos e a colaborar em metodologias ágeis.
+Essa experiência inicial me proporcionou grande amadurecimento técnico e
+interpessoal, além de reforçar meu interesse pela área.
+Decidi deixar a empresa ao ser aprovado no ENEM para cursar computação
+em uma universidade federal, onde optei por aprofundar minha formação
+acadêmica e técnica.
+Minha Saúde APP
+Fundador
+janeiro de 2018 - julho de 2018  (7 meses)
+Araguari e Região, Brasil
+Desenvolvedor de toda parte técnica da aplicação com o auxílio de dois
+estudantes de medicina do IME Presidente Antônio Carlos. Minha Saúde APP
+- aplicativo desenvolvido com o intuito de orientar a população carente sobre
+comorbidades como Diabetes, Hipertensão, entre outros.
+O aplicativo tem +15k downloads na play store, e está disponível
+gratuitamente.
+Formação acadêmica
+Universidade Federal de Uberlândia - UFU
+Bacharelado em Sistemas de Informação, Matemática e Ciência da
+Computação  · (2020 - setembro de 2025)
+Stanford University
+  Page 6 of 7
+   
+Especialização em Algoritmos e Machine Learning, Inteligência
+Artificial  · (2024 - 2025)
+  Page 7 of 7

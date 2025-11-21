@@ -1,0 +1,723 @@
+Nome
+Matheus Costa Monteiro
+Nome em citações
+bibliográficas
+MONTEIRO, M. C.
+Lattes iD
+http://lattes.cnpq.br/3420386831460864
+País de
+Nacionalidade
+BrasilMatheus Costa Monteiro
+Endereço para acessar este CV: http://lattes.cnpq.br/3420386831460864
+ID Lattes: 3420386831460864
+Última atualização do currículo em 27/10/2025
+Possui bachar elado em Sistemas de Informação pela Universidade Federal de
+Uberlândia, com experiência em Engenharia de Software, Inteligência Artificial e Teoria dos
+Grafos. Conquistou 90 por cento de acertos (63/70) no POSCOMP 2025 4 maior nota da
+história do exame , destacando-se entre as maior es referências nacionais. Atuou como
+Engenheir o de Inteligência Artificial na Scale AI (2024 - 2025), contribuindo para o
+desen volvimento da geração 2024 do GitHub Copilot, onde aplicou técnicas de fine-tuning
+de LLMs (incluindo LoRA, RLHF e regularização) e análise de grandes conjuntos de dados,
+elevando a acurácia dos modelos em 15 por cento e participando do lançamento de duas
+versões do sistema. Entre 2022 e 2024, foi estagiário em Engenharia de Software na Algar
+Telecom, desen volvendo soluções em redes móveis, APIs e sistemas distribuídos, além de
+ser vencedor da Hackathon de Inteligência Artificial da empresa (2024) com um projeto
+que gerou economia estimada em R$300 mil mensais. Na UFU, atuou como bolsista e
+coordenador geral do programa PET-SI (2022 - 2024), ministr ando cursos de programação
+competi tiva, estrutur as de dados e Cálculo , além de desen volver atividades de ensino ,
+extensão e pesquisa. Destaca-se também pela criação e liderança do aplicativo Minha
+Saúde APP (2017), desen volvido ainda no ensino médio , com mais de 15 mil downloads, e
+pela conquista de duas edições da Mostr a de Software da FACOM Techweek (2022 e 2024).
+Possui histórico sólido em competições de programação , com medalha na IX Maratona
+Mineir a de Programação (2022) e premiações em diversos hackathons nacionais, incluindo
+Ambev (2021), Algar (2024) e Adapta AI Challenge (2025). Atualmente (2025), desen volve
+pesquisa na UFU, na área de escalonamento de tarefas em ambientes heterogêneos,
+aplicando concei tos da Teoria dos Grafos para otimizar balanceamento de carga, reduzir
+custo de energia e melhor ar a eficiência de sistemas distribuídos e do treinamento de
+modelos de intel igência arti ficial.  (Texto informado pelo autor)
+Identificação
+Formação acadêmica/ti tulação
+2021 - 2025
+Graduação em Sistemas de Informação.
+Universidade Federal de Uberlândia, UFU,
+Brasil.
+Título: Análise comparativa de algoritmos
+de escalonamento de workflows
+científicos em processadores
+heterogêneos.
+Orientador: Paulo Henrique Ribeiro
+Gabriel.
+Bolsista do(a): Fundação de Amparo à
+Pesquisa do Estado de Minas Gerais,
+FAPEMIG, Brasil.
+2025
+Machine Learning Specialization. (Carga
+horária: 80h).
+Stanford University, STANFORD, Estados
+Unidos.
+2024
+curso.dev. (Carga horária: 200h).
+Filipe Deschamps Tech Inc., FILIPE
+DESCHAMPS, Canadá.
+2024 - 2024
+MIT 6.S191 - Introduction to Deep
+Learning. (Carga horária: 40h).
+Massachusetts Institute of Technology,
+MIT, Estados Unidos.
+Vínculo institucional
+2022 - 2024
+Vínculo: Bolsista, Enquadramento
+Funcional: Coordenador Geral, Carga
+horária: 20
+Outras
+informações
+Pesquisa: Iniciação Científica em
+escalonamento para processadores
+heterogêneos (03/202305/2024, 8
+h/sem), base do TCC. Ensino: organização
+e ministração de cursos/monitorias
+(algoritmos, ED, programaçãoFormação Complementar
+Atuação Pr ofissional
+Universidade Federal de Uberlândia, UFU, Brasil.
+competitiva). Extensão: participação em
+eventos e mostras de software; ações de
+divulgação científica.
+Vínculo institucional
+2022 - 2024
+Vínculo: Estágio, Enquadramento
+Funcional: Estagiário em Engenharia de
+Software, Carga horária: 20
+Outras
+informações
+Atuou como estagiário em Engenharia de
+Software, onde trabalhou em quatro
+projetos estratégicos que impactaram
+diretamente a eficiência da empresa.
+Desenvolveu o back-end da aplicação
+interna "Janela de Acesso", utilizada por
+mais de 5.000 colaboradores, e criou a
+API "Conecct Master", que otimiza a
+viabilidade de rede com integração ao
+Google Maps, aplicando conceitos de
+teoria dos grafos em C#. Participou da
+sustentação de plataformas de rede
+móvel, desenvolvendo soluções de rede e
+sistemas distribuídos em Java. No projeto
+"Rai.o", vencedor de uma hackathon de
+IA, criou uma solução em Python e React
+que reduz custos operacionais e
+potencializa vendas, estimando uma
+economia mensal de R$300.000 para a
+empresa.
+Vínculo institucional
+2022 - 2022
+Vínculo: Bolsista, Enquadramento
+Funcional: Tradutor e Criador de Desafios
+de Programaçã, Carga horária: 10
+Outras
+informações
+Atuou como tradutor e criador de desafios
+de programação. Utilizou sua experiência
+em maratonas de programação e sua
+fluência em inglês para desenvolver novos
+problemas para a plataforma,
+contribuindo para o aumento da
+variedade e complexidade dos desafios
+disponíveis aos usuários.Algar Telecom, ALGAR, Brasil.
+Beecrowd, BEECROWD, Brasil.
+Atomic Agro, ATOMIC AGRO, Brasil.
+Vínculo institucional
+2019 - 2019
+Vínculo: Celetista, Enquadramento
+Funcional: Desenvolvedor de Front-end,
+Carga horária: 40, Regime: Dedicação
+exclusiva.
+Outras
+informações
+Na Atomic Agro, trabalhou como
+desenvolvedor de front-end, focado no
+desenvolvimento de interfaces mobile
+utilizando React Native e ReactJS.
+Participou de um ambiente de startup que
+prioriza desenvolvimento ágil, onde
+adquiriu experiência prática em liderança
+e trabalho em equipe, além de aprimorar
+habilidades em desenvolvimento rápido e
+entrega de soluções eficientes para o
+mercado.
+Vínculo institucional
+2024 - Atual
+Vínculo: Celetista, Enquadramento
+Funcional: Engenheiro de Inteligência
+Artificial, Carga horária: 40
+Outras
+informações
+Engenheiro de Inteligência Artificial na
+Scale AI, contribuindo para o
+desenvolvimento do modelo CoPilot AI.
+Responsável pela otimização das
+respostas do modelo de IA, ajustando
+parâmetros para melhorar a precisão e a
+qualidade das respostas. Trabalha com
+técnicas avançadas de programação em
+Python e explora novas abordagens para
+aprimorar a interpretabilidade e
+generalização do modelo.
+2022 - 2024
+Estudo comparativo de heurísticas de
+escalonamento em processadores
+heterogêneos
+Descrição: Projeto durante minha
+participação no PET (2022 - 2024). IncluiuScale AI, SCALE, Estados Unidos.
+Projetos de pesquisa
+Iniciação Científica registrada sob
+DIREN/PET 061/2023, orientada por Prof.
+Paulo Henrique Ribeiro Gabriel, com
+vigência 31/03/2023 a 04/05/2024 e
+dedicação de 8 h/semana. Tema:
+comparação empírica de algoritmos de
+escalonamento (HEFT, DLS, PEFT, IPEFT,
+CPOP) em ambientes heterogêneos
+modelados por DAGs, visando reduzir
+makespan, melhorar balanceamento de
+carga e waiting time. Serviu de base para
+a monografia de TCC (2025)..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (1) /
+Doutorado: (1) .
+Integrantes: Matheus Costa Monteiro -
+Integrante / Paulo Henrique Ribeiro
+Gabriel - Coordenador.
+Número de produções C, T & A: 1
+2021 - 2021
+Ambev-Tech Academy Hack
+Descrição: Projeto desenvolvido como
+parte do evento Academy Hack da
+Ambev-Tech, com foco na criação de uma
+solução de automação para classificação
+de notas fiscais utilizando inteligência
+artificial. Como embaixador do projeto
+pela Universidade Federal de Uberlândia,
+coordenou a participação de equipes e
+desenvolveu uma solução que aplica
+técnicas de IA para otimizar o processo de
+classificação de documentos, reduzindo
+tempo e custos operacionais. O projeto foi
+reconhecido como destaque, contribuindo
+para a inovação nos processos de
+negócios da empresa..
+Situação: Concluído; Natureza: Extensão.
+Alunos envolvidos: Graduação: (10) /
+Mestrado acadêmico: (1) / Doutorado: (2)
+.
+Integrantes: Matheus Costa Monteiro -
+Coordenador / Rafael Dias Araújo -
+Integrante / Jefferson Rodrigo de Souza -
+Integrante / Leon de Morais Nunes -
+Integrante.
+2021 - 2021
+Tutoria de Programação Competitiva -
+2021
+Descrição: Após ser campeão da
+Maratona de Programação Algar em 2020,
+fui convidado a atuar como tutor de
+programação competitiva, ensinando
+algoritmos e estruturas de dados a alunos
+iniciantes interessados em competições
+como o ICPC. As aulas focaram noProjetos de extensão
+desenvolvimento de habilidades essenciais
+para programação competitiva, incluindo
+técnicas de resolução de problemas e
+estratégias avançadas para algoritmos,
+com o objetivo de preparar os alunos para
+competirem em alto nível..
+Situação: Concluído; Natureza: Extensão.
+Alunos envolvidos: Graduação: (15) .
+Integrantes: Matheus Costa Monteiro -
+Coordenador.
+2020 - 2020
+Jovens Programadores - 2020
+Descrição: Como coordenador e tutor do
+projeto Jovens Programadores, desenvolvi
+uma ação de ensino e extensão voltada
+para estudantes do ensino médio, com o
+objetivo de introduzi-los ao mundo da
+programação. O projeto ensinou conceitos
+de lógica de programação, algoritmos
+fundamentais e a linguagem C,
+oferecendo uma base sólida para que os
+jovens pudessem explorar carreiras e
+estudos em áreas tecnológicas. O curso
+focou em desenvolver o pensamento
+lógico e as habilidades básicas de
+programação..
+Situação: Concluído; Natureza: Extensão.
+Alunos envolvidos: Graduação: (2) .
+Integrantes: Matheus Costa Monteiro -
+Coordenador.
+2023 - 2023
+Curso Preparatório para a Disciplina de
+Estruturas de Dados do PET - 2023
+Descrição: Minicurso para estudantes de
+graduação, com o objetivo de preparar os
+alunos para o entendimento e aplicação
+de estruturas de dados. O curso aborda
+temas essenciais como listas, pilhas, filas,
+árvores e grafos, ajudando os alunos a
+desenvolver habilidades em lógica e
+algoritmos avançados..
+Situação: Concluído; Natureza: Ensino.
+Alunos envolvidos: Graduação: (50) .
+Integrantes: Matheus Costa Monteiro -
+Coordenador / Lucas Gabriel Teodoro
+Araújo - Integrante.
+2022 - 2022
+Curso Preparatório para a Disciplina de
+Estruturas de Dados do PET - 2022/2Projetos de ensino
+Descrição: Minicurso voltado para a
+preparação de estudantes em estruturas
+de dados, abordando tópicos como listas,
+pilhas, filas, árvores e grafos. Esse curso
+foi oferecido no segundo semestre de
+2022 para ajudar os alunos a fortalecerem
+suas bases em algoritmos e lógica de
+programação..
+Situação: Concluído; Natureza: Ensino.
+Alunos envolvidos: Graduação: (30) .
+Integrantes: Matheus Costa Monteiro -
+Coordenador / Lucas Gabriel Teodoro
+Araújo - Integrante.
+2022 - 2022
+Curso de C++ do PET - 2022
+Descrição: Curso introdutório sobre a
+linguagem de programação C++ para
+alunos de graduação, abordando
+fundamentos de programação, lógica e
+estruturas de dados. O curso foi
+direcionado para estudantes que desejam
+aprofundar conhecimentos em uma
+linguagem de baixo nível e preparar-se
+para estudos mais avançados em
+programação competitiva..
+Situação: Concluído; Natureza: Ensino.
+Alunos envolvidos: Graduação: (50) .
+Integrantes: Matheus Costa Monteiro -
+Coordenador / Lucas Gabriel Teodoro
+Araújo - Integrante / Murielly Oliveira
+Nascimento - Integrante.
+2022 - 2022
+Curso Preparatório para a Disciplina de
+Estruturas de Dados do PET - 2022/1
+Descrição: Curso oferecido no primeiro
+semestre de 2022 para preparar alunos de
+graduação em estruturas de dados,
+abordando tópicos como listas, pilhas,
+filas, árvores e grafos. O curso visou
+desenvolver habilidades em lógica e
+resolução de problemas para aplicação em
+disciplinas avançadas de algoritmos..
+Situação: Concluído; Natureza: Ensino.
+Alunos envolvidos: Graduação: (40) .
+Integrantes: Matheus Costa Monteiro -
+Coordenador / Lucas Gabriel Teodoro
+Araújo - Integrante.
+2022 - 2022
+Habilidades e Competências para o Século
+XXI: Introdução à Programação de
+Computadores
+Descrição: Atuei como monitor no curso
+"Habilidades e Competências para o
+Século XXI: Introdução à Programação de
+Computadores", realizado pelo
+Laboratório de Direitos Humanos (LabDH)
+da Faculdade de Direito da Universidade
+Federal de Uberlândia (UFU). O curso foi
+desenvolvido em parceria com a Fundação
+de Apoio Universitário (FAU), com o apoio
+do Tribunal Regional do Trabalho de Minas
+Gerais (TRT-MG) e do Ministério Público
+do Trabalho (MPT). Voltado para a
+comunidade acadêmica e externa, o
+objetivo do curso foi desenvolver
+competências de programação,
+capacitando os participantes para o
+mercado de trabalho impactado pelas
+novas tecnologias. Realizado no
+laboratório de informática da UFU, o curso
+contou com módulos presenciais aos
+sábados, oferecendo um aprendizado
+prático e interdisciplinar..
+Situação: Concluído; Natureza: Ensino.
+Alunos envolvidos: Graduação: (30) /
+Mestrado acadêmico: (2) / Mestrado
+profissional: (1) / Doutorado: (1) .
+Integrantes: Matheus Costa Monteiro -
+Integrante / Flávio de Oliveira Silva -
+Integrante / Rodrigo Vitorino Souza Alves
+- Coordenador.
+1.
+Grande área: Ciências Exatas e da Terra /
+Área: Ciência da Computação / Subárea:
+Metodologia e Técnicas da
+Computação/Especialidade: Engenharia
+de Software.
+2.
+Grande área: Ciências Exatas e da Terra /
+Área: Ciência da Computação / Subárea:
+Teoria da Computação/Especialidade:
+Análise de Algoritmos e Complexidade de
+Computação.
+Português
+Compreende Bem, Fala Bem, Lê Bem,
+Escreve Bem.
+Inglês
+Compreende Bem, Fala Bem, Lê Bem,
+Escreve Bem.
+Espanhol
+Compreende Razoavelmente, Fala
+Razoavelmente, Lê Razoavelmente,
+Escreve Razoavelmente.Áreas de atuação
+Idiomas
+2025
+Pódio - Adapta AI Challenge 2025,
+Adapta.
+2025
+POSCOMP 2025 ? 4ª maior nota da
+história (63/70, 90%), Sociedade
+Brasileira de Computação (SBC).
+2024
+Vencedor da Hackathon de Inteligência
+Artificial - Algar Telecom, Algar Telecom.
+2023
+Vencedor da Mostra de Software FACOM
+Techweek 2023 - jogo_da_velhAI,
+Universidade Federal de Uberlândia.
+2022
+Medalhista na IX Maratona Mineira de
+Programação, Sociedade Brasileira de
+Computação.
+2022
+Menção Honrosa ICPC South America
+Phase/First Phase rank: 96, ICPC.
+2021
+Vencedor do Academy Hack - Ambev-
+Tech, Ambev Tech.
+2020
+Campeão da Maratona de Programação
+Algar 2020, Algar Telecom e Universidade
+Federal de Uberlândia.
+2020
+Vencedor da Mostra de Software FACOM
+Techweek 2020 - Minha Saúde APP,
+Universidade Federal de Uberlândia.
+1.Prêmios e títulos
+Produções
+Produção bibliográfica
+Resumos publicados em anais de congressos
+MONTEIRO, M. C.; GABRIEL, P. H. R. . Plano de pesquisa -
+Comparação de Algoritmos de Escalonamento em Sistemas de
+Computação Heterogêneos Utilizando Teoria dos Grafos. In: IX
+FACOM TechWeek e XVI Workshop de Teses e Dissertações em
+Ciência da Computação, 2022, Uberlândia. IX FACOM
+TechWeek e XVI Workshop de Teses e Dissertações em Ciência
+da Computação, 2022.
+2.
+MONTEIRO, M. C.. Trabalho de conclusão de disciplina -
+2019/1. In: V Mostra de Trabalhos de Empreendedorismo de
+Monte Carmelo, 2019, Monte Carmelo. Algoritmos de
+Recomendação e Personalização de Anúncios nas Empresa,
+2019.
+1.
+ GABRIEL, P. H. R. ; MONTEIRO, M. C. . Análise
+comparativa de algoritmos de escalonamento de workflows
+científicos em processadores heterogêneos. Uberlândia:
+Universidade Federal de Uberlândia (UFU) ? Sistemas de
+Informação, 2025 (Trabalho de conclusão de curso
+(Graduação)).
+1.
+MONTEIRO, M. C.. jogo_da_velhAI. 2024.
+1.
+ MONTEIRO, M. C.; PEREIRA, J. H. S. . Maratona de
+Programação (ICPC). 2022.
+1.
+MONTEIRO, M. C.. Vencedor da Hackathon de Inteligência
+Artificial - Algar Telecom. 2024. (Participação em Hackathon).Outras produções bibliográficas
+Produção técnica
+Programas de computador sem registro
+Trabalhos técnicos
+Demais tipos de produção técnica
+2.
+ MONTEIRO, M. C.. Melhor Software do Ano - FACOM
+Techweek 2023. 2023. (Participação em Mostra de Software).
+3.
+MONTEIRO, M. C.. UberHub Code Club - 2022. 2022. (Curso
+de curta duração ministrado/Extensão).
+4.
+ MONTEIRO, M. C.. Medalhista na IX Maratona Mineira de
+Programação. 2022. (Participação em Competição de
+Programação).
+5.
+ MONTEIRO, M. C.. Embaixador e Vencedor do Academy
+Hack - Ambev-Tech. 2021. (Participação em Hackathon).
+6.
+MONTEIRO, M. C.. Jovens Programadores. 2020. (Curso de
+curta duração ministrado/Extensão).
+7.
+MONTEIRO, M. C.. Melhor Software do Ano - FACOM
+Techweek 2020. 2020. (Participação em Mostra de Software).
+8.
+MONTEIRO, M. C.. Campeão da Maratona de Programação
+Algar 2020. 2020. (Campeão Maratona de Programação Algar
+Techweek 2020).
+1.Eventos
+Participação em eventos, congressos, exposições e feiras
+The 2022 ICPC South America/Brazil First Phase. O(s)
+Orangotangos. 2023. (Olimpíada).
+2.
+IX Maratona Mineira de Programação. Time O(s) brabos. 2022.
+(Olimpíada).
+3.
+The 2021 ICPC South America/Brazil First Phase. Amigos do
+Zuck. 2022. (Olimpíada).
+4.
+XXII SEMAT e XII SEMEST.Coloração de mapas determinados
+por grafos planares com duas ou três cores. 2022. (Seminário).
+5.
+ICPC South America/Brazil First Phase. D812. 2021.
+(Olimpíada).
+6.
+Escola de Verão do ICPC - Unicamp.Brazilian ICPC Summer
+School. 2020. (Seminário).
+1.
+MONTEIRO, M. C.; RAZENTE, H. L. ; CATTELAN, R. G. ;
+NASCIMENTO, M. O. ; ARAUJO, L. G. T. . X FACOM TechWeek -
+Semana Acadêmica da Faculdade de Computação da UFU.
+2023. (Congresso).
+2.
+MONTEIRO, M. C.; ARAUJO, L. G. T. ; NASCIMENTO, M. O. ;
+RAZENTE, H. L. ; CATTELAN, R. G. . XVI Workshop de Teses e
+Dissertações em Ciência da Computação. 2022. (Exposição).
+3.
+MONTEIRO, M. C.; ARAUJO, L. G. T. ; RAZENTE, H. L. ;
+CATTELAN, R. G. ; NASCIMENTO, M. O. . XV Workshop deOrganização de eventos, congressos, exposições e feiras
+Teses e Dissertações em Ciência da Computação (2023). 2022.
+(Exposição).
+4.
+MONTEIRO, M. C.; ARAUJO, L. G. T. ; CATTELAN, R. G. ;
+RAZENTE, H. L. . IX FACOM TechWeek - Semana Acadêmica da
+Faculdade de Computação da UFU. 2022. (Congresso).
+1.
+MONTEIRO, M. C.. jogo_da_velhAI. 2024.
+2021 - 2021
+Ambev-Tech Academy Hack
+Descrição: Projeto desenvolvido como
+parte do evento Academy Hack da
+Ambev-Tech, com foco na criação de uma
+solução de automação para classificação
+de notas fiscais utilizando inteligência
+artificial. Como embaixador do projeto
+pela Universidade Federal de Uberlândia,
+coordenou a participação de equipes e
+desenvolveu uma solução que aplica
+técnicas de IA para otimizar o processo de
+classificação de documentos, reduzindo
+tempo e custos operacionais. O projeto foi
+reconhecido como destaque, contribuindo
+para a inovação nos processos de
+negócios da empresa..
+Situação: Concluído; Natureza: Extensão.
+Alunos envolvidos: Graduação: (10) /
+Mestrado acadêmico: (1) / Doutorado: (2)
+.
+Integrantes: Matheus Costa Monteiro -
+Coordenador / Rafael Dias Araújo -
+Integrante / Jefferson Rodrigo de Souza -
+Integrante / Leon de Morais Nunes -
+Integrante.
+2021 - 2021
+Tutoria de Programação Competitiva -
+2021Inovação
+Programa de computador sem registro
+Projeto de extensão
+Descrição: Após ser campeão da
+Maratona de Programação Algar em 2020,
+fui convidado a atuar como tutor de
+programação competitiva, ensinando
+algoritmos e estruturas de dados a alunos
+iniciantes interessados em competições
+como o ICPC. As aulas focaram no
+desenvolvimento de habilidades essenciais
+para programação competitiva, incluindo
+técnicas de resolução de problemas e
+estratégias avançadas para algoritmos,
+com o objetivo de preparar os alunos para
+competirem em alto nível..
+Situação: Concluído; Natureza: Extensão.
+Alunos envolvidos: Graduação: (15) .
+Integrantes: Matheus Costa Monteiro -
+Coordenador.
+2020 - 2020
+Jovens Programadores - 2020
+Descrição: Como coordenador e tutor do
+projeto Jovens Programadores, desenvolvi
+uma ação de ensino e extensão voltada
+para estudantes do ensino médio, com o
+objetivo de introduzi-los ao mundo da
+programação. O projeto ensinou conceitos
+de lógica de programação, algoritmos
+fundamentais e a linguagem C,
+oferecendo uma base sólida para que os
+jovens pudessem explorar carreiras e
+estudos em áreas tecnológicas. O curso
+focou em desenvolver o pensamento
+lógico e as habilidades básicas de
+programação..
+Situação: Concluído; Natureza: Extensão.
+Alunos envolvidos: Graduação: (2) .
+Integrantes: Matheus Costa Monteiro -
+Coordenador.
+2023 - 2023
+Curso Preparatório para a Disciplina de
+Estruturas de Dados do PET - 2023
+Descrição: Minicurso para estudantes de
+graduação, com o objetivo de preparar os
+alunos para o entendimento e aplicação
+de estruturas de dados. O curso aborda
+temas essenciais como listas, pilhas, filas,
+árvores e grafos, ajudando os alunos a
+desenvolver habilidades em lógica e
+algoritmos avançados..
+Situação: Concluído; Natureza: Ensino.
+Alunos envolvidos: Graduação: (50) .
+Integrantes: Matheus Costa Monteiro -
+Coordenador / Lucas Gabriel Teodoro
+Araújo - Integrante.
+2022 - 2022Projeto de ensino
+Curso Preparatório para a Disciplina de
+Estruturas de Dados do PET - 2022/2
+Descrição: Minicurso voltado para a
+preparação de estudantes em estruturas
+de dados, abordando tópicos como listas,
+pilhas, filas, árvores e grafos. Esse curso
+foi oferecido no segundo semestre de
+2022 para ajudar os alunos a fortalecerem
+suas bases em algoritmos e lógica de
+programação..
+Situação: Concluído; Natureza: Ensino.
+Alunos envolvidos: Graduação: (30) .
+Integrantes: Matheus Costa Monteiro -
+Coordenador / Lucas Gabriel Teodoro
+Araújo - Integrante.
+2022 - 2022
+Curso de C++ do PET - 2022
+Descrição: Curso introdutório sobre a
+linguagem de programação C++ para
+alunos de graduação, abordando
+fundamentos de programação, lógica e
+estruturas de dados. O curso foi
+direcionado para estudantes que desejam
+aprofundar conhecimentos em uma
+linguagem de baixo nível e preparar-se
+para estudos mais avançados em
+programação competitiva..
+Situação: Concluído; Natureza: Ensino.
+Alunos envolvidos: Graduação: (50) .
+Integrantes: Matheus Costa Monteiro -
+Coordenador / Lucas Gabriel Teodoro
+Araújo - Integrante / Murielly Oliveira
+Nascimento - Integrante.
+2022 - 2022
+Curso Preparatório para a Disciplina de
+Estruturas de Dados do PET - 2022/1
+Descrição: Curso oferecido no primeiro
+semestre de 2022 para preparar alunos de
+graduação em estruturas de dados,
+abordando tópicos como listas, pilhas,
+filas, árvores e grafos. O curso visou
+desenvolver habilidades em lógica e
+resolução de problemas para aplicação em
+disciplinas avançadas de algoritmos..
+Situação: Concluído; Natureza: Ensino.
+Alunos envolvidos: Graduação: (40) .
+Integrantes: Matheus Costa Monteiro -
+Coordenador / Lucas Gabriel Teodoro
+Araújo - Integrante.
+2022 - 2022
+Habilidades e Competências para o Século
+XXI: Introdução à Programação de
+Computadores
+Descrição: Atuei como monitor no curso
+"Habilidades e Competências para o
+Século XXI: Introdução à Programação de
+Computadores", realizado pelo
+Laboratório de Direitos Humanos (LabDH)
+da Faculdade de Direito da Universidade
+Federal de Uberlândia (UFU). O curso foi
+desenvolvido em parceria com a Fundação
+de Apoio Universitário (FAU), com o apoio
+do Tribunal Regional do Trabalho de Minas
+Gerais (TRT-MG) e do Ministério Público
+do Trabalho (MPT). Voltado para a
+comunidade acadêmica e externa, o
+objetivo do curso foi desenvolver
+competências de programação,
+capacitando os participantes para o
+mercado de trabalho impactado pelas
+novas tecnologias. Realizado no
+laboratório de informática da UFU, o curso
+contou com módulos presenciais aos
+sábados, oferecendo um aprendizado
+prático e interdisciplinar..
+Situação: Concluído; Natureza: Ensino.
+Alunos envolvidos: Graduação: (30) /
+Mestrado acadêmico: (2) / Mestrado
+profissional: (1) / Doutorado: (1) .
+Integrantes: Matheus Costa Monteiro -
+Integrante / Flávio de Oliveira Silva -
+Integrante / Rodrigo Vitorino Souza Alves
+- Coordenador.
+1.
+MONTEIRO, M. C.. jogo_da_velhAI. 2024.
+1.
+MONTEIRO, M. C.. UberHub Code Club - 2022. 2022. (Curso
+de curta duração ministrado/Extensão).
+2.
+MONTEIRO, M. C.. Jovens Programadores. 2020. (Curso de
+curta duração ministrado/Extensão).Educação e P opularização de C & T
+Programa de Computador sem registro de patente
+Cursos de curta duração ministrados
+Organização de eventos, congressos, exposições e feiras
+1.
+MONTEIRO, M. C.; RAZENTE, H. L. ; CATTELAN, R. G. ;
+NASCIMENTO, M. O. ; ARAUJO, L. G. T. . X FACOM TechWeek -
+Semana Acadêmica da Faculdade de Computação da UFU.
+2023. (Congresso).
+2.
+MONTEIRO, M. C.; ARAUJO, L. G. T. ; NASCIMENTO, M. O. ;
+RAZENTE, H. L. ; CATTELAN, R. G. . XVI Workshop de Teses e
+Dissertações em Ciência da Computação. 2022. (Exposição).
+3.
+MONTEIRO, M. C.; ARAUJO, L. G. T. ; RAZENTE, H. L. ;
+CATTELAN, R. G. ; NASCIMENTO, M. O. . XV Workshop de
+Teses e Dissertações em Ciência da Computação (2023). 2022.
+(Exposição).
+4.
+MONTEIRO, M. C.; ARAUJO, L. G. T. ; CATTELAN, R. G. ;
+RAZENTE, H. L. . IX FACOM TechWeek - Semana Acadêmica da
+Faculdade de Computação da UFU. 2022. (Congresso).
+Outras inf ormações r elevantes
+MENÇÕES NA MÍDIA: Computação da UFU conquista medalhas de prata e ouro na Maratona
+Mineira de Programação (06/2022). Link:
+[https://comunica.ufu.br/noticias/2022/06/computacao-da-ufu-conquista-medalhas-de-prata-
+e-ouro-na-maratona-mineira-de] Alunos da UFU são premiados em desafio de inteligência
+artificial (ABI Academy Hack) (01/2022). Link:
+[https://comunica.ufu.br/noticias/2022/01/alunos-da-ufu-sao-premiados-em-desafio-de-
+inteligencia-artificial] Aluno da UFU foi um dos ganhadores do maior hackathon de IA
+generativa do Brasil (Adapta AI Challenge) (09/2025). Link:
+[https://comunica.ufu.br/noticias/2025/09/aluno-da-ufu-foi-um-dos-ganhadores-do-maior-
+hackathon-de-ia-generativa-do-brasil] PERFIS E REPOSITÓRIOS:GitHub:
+[https://github.com/costadev00](https://github.com/costadev00) LinkedIn:
+[https://www.linkedin.com/in/costadeveloper/] ORCID: [https://orcid.org/0009-0009-4542-
+6236] Repositório do TCC: [https://repositorio.ufu.br/handle/123456789/47466]
+Página gerada pelo Sistema Currículo Lattes em 19/11/2025 às 12:05:01
+Somente os dados identificados como públicos pelo autor são apresentados na consulta do seuCurrículo Lattes.Configuração de privacidade na Plataforma Lattes

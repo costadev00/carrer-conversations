@@ -2,6 +2,7 @@ from dotenv import load_dotenv
 from openai import OpenAI
 import json
 import os
+from pathlib import Path
 import requests
 from PyPDF2 import PdfReader
 import gradio as gr
@@ -78,21 +79,24 @@ class Me:
     def __init__(self):
         self.openai = OpenAI()
         self.name = "Matheus Costa"
-        reader = PdfReader("me/linkedin.pdf")
-        self.linkedin = ""
-        for page in reader.pages:
-            text = page.extract_text()
-            if text:
-                self.linkedin += text
-
-        lattes_reader = PdfReader("me/lattes.pdf")
-        self.lattes = ""
-        for page in lattes_reader.pages:
-            text = page.extract_text()
-            if text:
-                self.lattes += text
-        with open("me/summary.txt", "r", encoding="utf-8") as f:
+        base_dir = Path("me")
+        self.linkedin = self._load_document(base_dir / "linkedin.txt", base_dir / "linkedin.pdf")
+        self.lattes = self._load_document(base_dir / "lattes.txt", base_dir / "lattes.pdf")
+        with open(base_dir / "summary.txt", "r", encoding="utf-8") as f:
             self.summary = f.read()
+
+    def _load_document(self, txt_path: Path, pdf_path: Path) -> str:
+        if txt_path.exists():
+            return txt_path.read_text(encoding="utf-8")
+        if pdf_path.exists():
+            reader = PdfReader(str(pdf_path))
+            chunks = []
+            for page in reader.pages:
+                text = page.extract_text()
+                if text:
+                    chunks.append(text)
+            return "".join(chunks)
+        return ""
 
 
     def handle_tool_call(self, tool_calls):
