@@ -30,22 +30,22 @@ def record_unknown_question(question):
 
 record_user_details_json = {
     "name": "record_user_details",
-    "description": "Use this tool to record that a user is interested in being in touch and provided an email address",
+    "description": "Use esta ferramenta para registrar que um usuário está interessado em entrar em contato e forneceu um endereço de e-mail",
     "parameters": {
         "type": "object",
         "properties": {
             "email": {
                 "type": "string",
-                "description": "The email address of this user"
+                "description": "O endereço de e-mail deste usuário"
             },
             "name": {
                 "type": "string",
-                "description": "The user's name, if they provided it"
+                "description": "O nome do usuário, se fornecido"
             }
             ,
             "notes": {
                 "type": "string",
-                "description": "Any additional information about the conversation that's worth recording to give context"
+                "description": "Qualquer informação adicional sobre a conversa que seja relevante para registrar o contexto"
             }
         },
         "required": ["email"],
@@ -55,13 +55,13 @@ record_user_details_json = {
 
 record_unknown_question_json = {
     "name": "record_unknown_question",
-    "description": "Always use this tool to record any question that couldn't be answered as you didn't know the answer",
+    "description": "Sempre use esta ferramenta para registrar qualquer pergunta que não pôde ser respondida porque você não sabia a resposta",
     "parameters": {
         "type": "object",
         "properties": {
             "question": {
                 "type": "string",
-                "description": "The question that couldn't be answered"
+                "description": "A pergunta que não pôde ser respondida"
             },
         },
         "required": ["question"],
@@ -77,13 +77,20 @@ class Me:
 
     def __init__(self):
         self.openai = OpenAI()
-        self.name = "Ed Donner"
+        self.name = "Matheus Costa"
         reader = PdfReader("me/linkedin.pdf")
         self.linkedin = ""
         for page in reader.pages:
             text = page.extract_text()
             if text:
                 self.linkedin += text
+
+        lattes_reader = PdfReader("me/lattes.pdf")
+        self.lattes = ""
+        for page in lattes_reader.pages:
+            text = page.extract_text()
+            if text:
+                self.lattes += text
         with open("me/summary.txt", "r", encoding="utf-8") as f:
             self.summary = f.read()
 
@@ -100,16 +107,16 @@ class Me:
         return results
     
     def system_prompt(self):
-        system_prompt = f"You are acting as {self.name}. You are answering questions on {self.name}'s website, \
-particularly questions related to {self.name}'s career, background, skills and experience. \
-Your responsibility is to represent {self.name} for interactions on the website as faithfully as possible. \
-You are given a summary of {self.name}'s background and LinkedIn profile which you can use to answer questions. \
-Be professional and engaging, as if talking to a potential client or future employer who came across the website. \
-If you don't know the answer to any question, use your record_unknown_question tool to record the question that you couldn't answer, even if it's about something trivial or unrelated to career. \
-If the user is engaging in discussion, try to steer them towards getting in touch via email; ask for their email and record it using your record_user_details tool. "
+        system_prompt = f"Você está atuando como {self.name}. Você está respondendo perguntas no site de {self.name}, \
+    particularmente perguntas relacionadas à carreira, histórico, habilidades e experiência de {self.name}. \
+    Sua responsabilidade é representar {self.name} nas interações no site da forma mais fiel possível. \
+    Você recebeu um resumo do histórico profissional, o perfil do LinkedIn e o currículo Lattes de {self.name}; use-os para responder perguntas, priorizando o Lattes quando o assunto envolver formação ou produção acadêmica. \
+    Seja profissional e envolvente, como se estivesse conversando com um potencial cliente ou futuro empregador que acessou o site. \
+    Se você não souber a resposta para alguma pergunta, use sua ferramenta `record_unknown_question` para registrar a pergunta que você não conseguiu responder, mesmo que seja algo trivial ou não relacionado à carreira. \
+    Se o usuário estiver engajado na conversa, tente direcioná-lo a entrar em contato por e-mail; peça o e-mail e registre-o usando sua ferramenta `record_user_details`."
 
-        system_prompt += f"\n\n## Summary:\n{self.summary}\n\n## LinkedIn Profile:\n{self.linkedin}\n\n"
-        system_prompt += f"With this context, please chat with the user, always staying in character as {self.name}."
+        system_prompt += f"\n\n## Resumo:\n{self.summary}\n\n## Perfil do LinkedIn:\n{self.linkedin}\n\n## Currículo Lattes (formação e produção acadêmica):\n{self.lattes}\n\n"
+        system_prompt += f"Com esse contexto, por favor converse com o usuário, sempre mantendo o personagem de {self.name}."
         return system_prompt
     
     def chat(self, message, history):
@@ -130,5 +137,5 @@ If the user is engaging in discussion, try to steer them towards getting in touc
 
 if __name__ == "__main__":
     me = Me()
-    gr.ChatInterface(me.chat, type="messages").launch()
+    gr.ChatInterface(me.chat, type="messages").launch(share=True)
     

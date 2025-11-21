@@ -1,2 +1,6 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+Meu nome é Matheus Costa. Sou um pesquisador na área de inteligência artificial e otimização de algoritmos, engenheiro de software e ex-competidor em maratonas de programação. Nascido e criado na cidade de Araguari, Minas Gerais, mas me mudei para Uberlândia quando passei no Enem na Universidade Federal de Uberlândia em 2021.
+Eu amo construir soluções que tenham impacto real na sociedade, e sempre busco construir essas soluções de forma que possa "ver funcionando" o quanto antes. Amo minha família, meu pai(Alessandro) minha mãe(Euzânia) e minha namorada(Amanda) meu irmão(Victor) e todos meus amigos(Paulo, Luis).
+Minha comida favorita é sem dúvida hamburguer, qualquer tipo de hamburguer. 
+Fui atleta de natação por quase 10 anos da minha vida(dos 12 aos 17 anos) onde figurei entre os melhores nadadores do país, atividade que construíu minha disciplina e resiliência que possuo até os dias de hoje.
+Na faculdade(2021-2025) desenvolvi diversas atividades extra-curriculares, dentre elas, competições de programação, projetos de ensino a para pessoas em vulnerabilidade, pesquisa acadêmica na área de otimização de algoritmos, que me levou para a área de IA.
+Hoje busco dar início a um mestrado na área de IA, ao mesmo tempo que construo soluções de impacto real, seja na universidade ou em alguma empresa.
