@@ -5,7 +5,7 @@ Headline: AI Engineer at TRACTIAN | M.Sc. Student, University of São Paulo
 Localização: São Paulo, São Paulo, Brasil
 
 Contato e links
-- Email: matheuscostamonteiro.mc@gmail.com
+- Email: mcostamonteiro@usp.br
 - LinkedIn: https://www.linkedin.com/in/costadeveloper
 - GitHub/Portfolio: https://github.com/costadev00/
 - Lattes: http://lattes.cnpq.br/3420386831460864

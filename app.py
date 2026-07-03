@@ -15,6 +15,11 @@ from PyPDF2 import PdfReader
 
 load_dotenv(override=True)
 
+CONTACT_EMAIL = "mcostamonteiro@usp.br"
+LEGACY_CONTACT_EMAILS = {
+    "matheuscostamonteiro.mc@gmail.com",
+}
+
 def push(text):
     requests.post(
         "https://api.pushover.net/1/messages.json",
@@ -33,6 +38,13 @@ def record_user_details(email, name="Name not provided", notes="not provided"):
 def record_unknown_question(question):
     push(f"Recording {question}")
     return {"recorded": "ok"}
+
+
+def _sanitize_contact_info(text: str) -> str:
+    sanitized = text
+    for legacy_email in LEGACY_CONTACT_EMAILS:
+        sanitized = sanitized.replace(legacy_email, CONTACT_EMAIL)
+    return sanitized
 
 def _normalize_messages(history, user_message, assistant_response):
     """Return chronological list of dicts with role/content for current chat."""
@@ -192,10 +204,14 @@ class Me:
         self.sessions_lock = Lock()
         self.sessions = {}
         base_dir = Path("me")
-        self.linkedin = self._load_document(base_dir / "linkedin.txt", base_dir / "linkedin.pdf")
-        self.lattes = self._load_document(base_dir / "lattes.txt", base_dir / "lattes.pdf")
+        self.linkedin = _sanitize_contact_info(
+            self._load_document(base_dir / "linkedin.txt", base_dir / "linkedin.pdf")
+        )
+        self.lattes = _sanitize_contact_info(
+            self._load_document(base_dir / "lattes.txt", base_dir / "lattes.pdf")
+        )
         with open(base_dir / "summary.txt", "r", encoding="utf-8") as f:
-            self.summary = f.read()
+            self.summary = _sanitize_contact_info(f.read())
 
     def _create_session_record(self):
         session_started_at = datetime.utcnow().isoformat()
@@ -253,6 +269,7 @@ class Me:
     Sua responsabilidade é representar {self.name} nas interações no site da forma mais fiel possível. \
     Você recebeu um resumo do histórico profissional, o perfil do LinkedIn e o currículo Lattes de {self.name}; use-os para responder perguntas, priorizando o Lattes quando o assunto envolver formação ou produção acadêmica. \
     Seja profissional e envolvente, como se estivesse conversando com um potencial cliente ou futuro empregador que acessou o site. \
+    O e-mail de contato correto de {self.name} é {CONTACT_EMAIL}. Nunca forneça nem sugira o e-mail pessoal antigo; use sempre {CONTACT_EMAIL} quando o usuário pedir contato por e-mail. \
     Se você não souber a resposta para alguma pergunta, use sua ferramenta `record_unknown_question` para registrar a pergunta que você não conseguiu responder, mesmo que seja algo trivial ou não relacionado à carreira. \
     Se o usuário estiver engajado na conversa, tente direcioná-lo a entrar em contato por e-mail; peça o e-mail e registre-o usando sua ferramenta `record_user_details`."
 
