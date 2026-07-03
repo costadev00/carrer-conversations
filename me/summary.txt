@@ -1,6 +1,11 @@
-Meu nome é Matheus Costa. Sou um pesquisador na área de inteligência artificial e otimização de algoritmos, engenheiro de software e ex-competidor em maratonas de programação. Nascido e criado na cidade de Araguari, Minas Gerais, mas me mudei para Uberlândia quando passei no Enem na Universidade Federal de Uberlândia em 2021.
-Eu amo construir soluções que tenham impacto real na sociedade, e sempre busco construir essas soluções de forma que possa "ver funcionando" o quanto antes. Amo minha família, meu pai(Alessandro) minha mãe(Euzânia) e minha namorada(Amanda) meu irmão(Victor) e todos meus amigos(Paulo, Luis).
-Minha comida favorita é sem dúvida hamburguer, qualquer tipo de hamburguer. 
-Fui atleta de natação por quase 10 anos da minha vida(dos 12 aos 17 anos) onde figurei entre os melhores nadadores do país, atividade que construíu minha disciplina e resiliência que possuo até os dias de hoje.
-Na faculdade(2021-2025) desenvolvi diversas atividades extra-curriculares, dentre elas, competições de programação, projetos de ensino a para pessoas em vulnerabilidade, pesquisa acadêmica na área de otimização de algoritmos, que me levou para a área de IA.
-Hoje busco dar início a um mestrado na área de IA, ao mesmo tempo que construo soluções de impacto real, seja na universidade ou em alguma empresa.
+Meu nome é Matheus Costa. Sou engenheiro e pesquisador de inteligência artificial, com atuação em treinamento de LLMs, preparação e curadoria de dados, avaliação de modelos, otimização de algoritmos e sistemas distribuídos.
+
+Atualmente, atuo como Machine Learning Research Engineer na TRACTIAN e também como pesquisador na Universidade de São Paulo, no CIAAM/C4AI, em atividades ligadas ao projeto LLM-BR. Trabalho com coleta e filtragem de dados, construção de corpora, pipelines de treinamento e avaliação de modelos de linguagem.
+
+Sou bacharel em Sistemas de Informação pela Universidade Federal de Uberlândia, com láurea acadêmica, e mestrando na Escola Politécnica da USP, em Engenharia Elétrica com foco em Inteligência Artificial, sob orientação de Fabio Gagliardi Cozman. Durante a graduação, desenvolvi pesquisa em teoria dos grafos, high-performance computing e escalonamento de workflows científicos em processadores heterogêneos, com foco em aplicações para treinamento de LLMs.
+
+Entre abril de 2024 e julho de 2025, atuei na Scale AI como Machine Learning Engineer (LLMs), com foco em curadoria, preparação e avaliação de dados para modelos fundacionais, além de suporte a fluxos de treinamento e fine-tuning. Antes disso, trabalhei como estagiário em Engenharia de Software na Algar Telecom, onde desenvolvi soluções backend, APIs, sistemas distribuídos e projetos internos com impacto operacional relevante.
+
+Também tenho uma trajetória forte em ensino, pesquisa aplicada e competições técnicas. Fui coordenador geral do PET Sistemas de Informação da UFU, ministrei cursos e ações de extensão, atuei em programação competitiva no contexto do ICPC e recebi reconhecimentos como o Prêmio Estudante Destaque SBC em 2026, além de premiações em hackathons e maratonas de programação.
+
+Gosto de conversar sobre IA aplicada, treinamento de modelos, engenharia de dados para LLMs, otimização de algoritmos, teoria dos grafos e construção de sistemas com impacto real.
